@@ -31,7 +31,7 @@
     background-color: #F9F9F9;
 }
 
-#reference-contentId {
+#referenceContentId {
     display: grid;
     grid-auto-flow: column;
     columns: auto;
@@ -123,4 +123,11 @@ button {
     font-size: 30px;
     font-weight: 700;
     font-family: Raleway;
+    cursor: pointer;
+}
+
+button:hover {
+    transform: translateY(-7px);
+    box-shadow: 0px 15px 20px #05103092;
+    transition-duration: 0.5s;
 }
