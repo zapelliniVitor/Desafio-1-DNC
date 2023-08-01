@@ -1,0 +1,126 @@
+* {
+    margin: 0px;
+    font-family: 'Inter';
+}
+
+#headerId {
+    width: auto;
+    height: 475px;
+    background-color: #303030;
+}
+
+#headerTitleId {
+    color: #FFF;
+    font-size: 60px;
+    font-weight: 600;
+    margin: 0px 0px 20px 62px;
+    padding-top: 206px;
+    letter-spacing: -1.5px;
+}
+
+#headerTextId {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 62px;
+}
+
+#referenceId {
+    width: auto;
+    height: 229px;
+    background-color: #F9F9F9;
+}
+
+#reference-contentId {
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding-top: 91px;
+    text-align: center;
+}
+
+.reference-h2 {
+    color: #000;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.reference-span {
+    color: #000;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#historyId {
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding-top: 82px;
+
+    width: auto;
+    height: 791px;
+    margin-bottom: 92px;
+}
+
+#historyContentId {
+    margin-left: 77px;
+    margin-top: 304px;
+}
+
+#historyTitleId {
+    color: #000;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+#historyTextId {
+    color: #000;
+    font-size: 24px;
+    font-weight: 300;
+}
+
+#contactId {
+    width: auto;
+    height: 720px;
+    background-color: #303030;;
+    text-align: center;
+}
+
+#contact-h3 {
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 700px;
+    padding-top: 87px;
+}
+
+form {
+    padding-top: 48px;
+    padding-bottom: 82px;
+}
+
+input {
+    margin-top: 62px;
+    width: 508px;
+    height: 72px;
+    border: 0px;
+    border-radius: 10px;
+    background-color: #FFF;
+    color: rgba(0, 0, 0, 0.30);
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Raleway;
+    padding-left: 30px;
+}
+
+button {
+    margin-top: 110px;
+    width: 286px;
+    height: 74px;
+    border: 0px;
+    border-radius: 10px;
+    background-color: #C07212;
+    color: #FFF;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Raleway;
+}
